@@ -1,0 +1,12 @@
+.signout {
+  padding: 2rem 1rem;
+  text-decoration: underline;
+  -webkit-transition: all ease-in-out .2s;
+  transition: all ease-in-out .2s;
+}
+
+.signout:hover {
+  color: #ccc;
+  cursor: pointer;
+}
+/*# sourceMappingURL=Navigation.css.map */

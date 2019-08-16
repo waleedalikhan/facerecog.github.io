@@ -1,0 +1,45 @@
+.card {
+  background: transparent;
+  width: 400px;
+  height: 400px;
+  position: relative;
+  .theForm {
+    position: absolute;
+    top: 18%;
+    left: 22%;
+    .form-control {
+      background: transparent;
+      border: 2px solid #000;
+      border-radius: 0;
+      box-shadow: none;
+      outline: none;
+      transition: all ease-in-out 0.2s;
+      color: #fff;
+      &:hover {
+        background: #000;
+      }
+      &:focus {
+        box-shadow: none;
+        outline: none;
+        background: #000;
+      }
+    }
+    .btn {
+      border-radius: 7px;
+      border: 2px solid #000;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      box-shadow: none;
+      outline: none;
+      transition: all ease-in-out 0.2s;
+      &:focus {
+        box-shadow: none;
+        outline: none;
+      }
+      &:hover {
+        background: #000;
+        color: #fff;
+      }
+    }
+  }
+}
