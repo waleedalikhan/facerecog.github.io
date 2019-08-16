@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACZ,QAAQ,EAAE,QAAQ;EAClB,UAAU,EAAE,uBAAuB;EACnC,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,MAAM;EACvB,MAAM,EAAE,OAAO;CAChB",
+    "sources": [
+        "recognition.scss"
+    ],
+    "names": [],
+    "file": "recognition.css"
+}
